@@ -83,8 +83,9 @@ nav ul li a:hover {
 }
 .product-img {
   float:left;
-  padding:20px;
-  min-width: 150px;
+  padding:50px;
+  max-height:70%;
+  min-width: 50px;
   max-width:450px;
 }
 a{
@@ -94,6 +95,7 @@ a{
 section1{
  padding:20px;
  text-weight:20;
+ color:#00008B;
 }
 .LOK{
   text-align:center;
@@ -112,7 +114,7 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   height:70%;
-  min-width: 150px;
+  min-width: 50px;
   max-width:600px;
   position: relative;
   margin: auto;
